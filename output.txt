@@ -1,0 +1,53 @@
+2305843009213693951
+the current array size is: 5
+test for index out of range 0 0x55555556beac
+0test 00x55555556beb0
+1test 00x55555556beb4
+2test 00x55555556beb8
+3test 00x55555556bebc
+4test 00x55555556bec0
+5test 00x55555556bec4
+6test 41130x55555556bec8
+7test 00x55555556becc
+8test 19360287280x55555556bed0
+9test 9595208840x55555556bed4
+10test 8085967930x55555556bed8
+11test 8593877020x55555556bedc
+12test 8926966240x55555556bee0
+13test 8926794770x55555556bee4
+14test 17009352210x55555556bee8
+15test 1714681330x55555556beec
+16test 8926794770x55555556bef0
+17test 9094566930x55555556bef4
+18test 16673273300x55555556bef8
+19test 100x55555556befc
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+10
+20
+the current variable i is: 0
+the current variable i is: 1
+the current variable i is: 2
+the current variable i is: 3
+the current variable i is: 4
+the current variable i is: 5
+the current variable i is: 6
+the current variable i is: 7
+the current variable i is: 8
+the current variable i is: 9
+the current variable i is: 10
+the current variable i is: 11
+the current variable i is: 12
+the current variable i is: 13
+the current variable i is: 14
+the current variable i is: 15
+the current variable i is: 16
+the current variable i is: 17
+the current variable i is: 18
+the current variable i is: 19
+20
+210
