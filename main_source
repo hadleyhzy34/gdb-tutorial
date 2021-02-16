@@ -1,0 +1,4 @@
+#!/usr/bin/gdb -x
+file /usr/bin/gdb
+start
+set $array = {1,2,3,4,5};
